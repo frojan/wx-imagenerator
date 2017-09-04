@@ -1,0 +1,4 @@
+<view class="container">
+  <import src="../../components/pasterContainer/index.wxml"/>
+  <template is="pasterContiner" data="{{..._pdata}}"/>
+</view>

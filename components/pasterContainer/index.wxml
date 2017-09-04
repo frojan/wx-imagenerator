@@ -1,0 +1,4 @@
+<template name="pasterContiner">
+  <!-- <wxs src="index.wxs" module="handlePaster" /> -->
+  <view bindtap="handleClick">{{msg}}.{{mmm}}</view>
+</template>
